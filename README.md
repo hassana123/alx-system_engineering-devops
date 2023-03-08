@@ -1,2 +1,1 @@
-# alx-system_engineering-devops
-alx-system_engineering-devops
+an alx-software_engineering shell basics repo
